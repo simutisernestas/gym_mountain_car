@@ -1,1 +1,3 @@
-# Reinforcement learning in OpenAI gym environment MountainCar-v0
+# Reinforcement learning
+
+Reinforcement learning based approach to solve OpenAI gym environment MountainCar-v0 game. 
